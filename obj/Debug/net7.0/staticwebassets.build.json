@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dE2JkGFxM2sUwdc9SZsqZwcPnqi8ce2ZvUtjwCqGRc4=",
+  "Source": "ExatoApi",
+  "BasePath": "_content/ExatoApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
